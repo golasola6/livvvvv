@@ -25,7 +25,7 @@ async def render_lazydeveloper(video_url):
         html_content = await r.read()
 
     # Replace placeholders in the HTML template
-    heading = "Join@cricketclipsprovider"
+    heading = "Join@LazyDeveloperr"
     print(f"📺Here is video url ==> {video_url}")
     html = html_content.replace("thenameislazydeveloper", heading).replace("thefileislazydeveloper", video_url)
 
