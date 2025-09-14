@@ -19,9 +19,9 @@ import logging
 import logging.config
 
 PORT = "8080"
-
-loop = asyncio.get_event_loop()
 lazydeveloperxbot.start()
+loop = asyncio.get_event_loop()
+
 lazydeveloperxbot.LOGGER = LOGGER
 
 async def lazyDeveloperStartBOT():
@@ -30,7 +30,6 @@ async def lazyDeveloperStartBOT():
     print('================================  ')
     print('|==>❤ Powered by - The one & Only LAZYDEVELOPER ❤<==||')
     print('|==> Initalizing Telegram Bot... ')
-    
     usr_bot_me = await lazydeveloperxbot.get_me()
     lazydeveloperxbot.uptime = datetime.now()
     await initialize_clients()
@@ -72,5 +71,3 @@ if __name__ == '__main__':
         logging.info('=================================================================================')
     except KeyboardInterrupt:
         logging.info('-----------------------😜 Service Stopped Sweetheart 😝-----------------------')
-
-

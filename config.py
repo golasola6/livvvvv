@@ -73,8 +73,8 @@ FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", ""))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "5"))
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "600")) # auto delete in seconds
-TEL_USERNAME = os.environ.get("TEL_USERNAME", "HeY_Lucky19")
-TEL_NAME = os.environ.get("TEL_NAME", "🦋 Lucky 🧩")
+TEL_USERNAME = os.environ.get("TEL_USERNAME", "LazyDeveloperr")
+TEL_NAME = os.environ.get("TEL_NAME", "🦋 LazyDeveloperr 🧩")
 #start message
 START_PIC = os.environ.get("START_PIC", "")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "")

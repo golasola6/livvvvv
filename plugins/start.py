@@ -100,12 +100,11 @@ async def start_command(client: Client, message: Message):
     
 # <blockquote>I’m advance version of cricket match link converter bot, instead of this i can store telegram files and generate direct download/watch link for u ❤ </blockquote>
 
-# <blockquote>& ᴛʜᴇ ᴏᴡɴᴇʀ ɪs 🧩 <a href='https://t.me/hey_lucky19'> ʟ ᴜ ᴄ ᴋ ʏ </a></blockquote>
 # """
         reply_markup=InlineKeyboardMarkup([
                 [
-                InlineKeyboardButton('♻ᴜᴘᴅᴀᴛᴇꜱ ', url='https://telegram.me/cricketclipsprovider'),
-                InlineKeyboardButton('🧩ꜱᴜᴘᴘᴏʀᴛ ', url='https://telegram.me/cricketclipsprovider')
+                InlineKeyboardButton('♻ᴜᴘᴅᴀᴛᴇꜱ ', url='https://telegram.me/LazyDeveloperr'),
+                InlineKeyboardButton('🧩ꜱᴜᴘᴘᴏʀᴛ ', url='https://telegram.me/LazyDeveloperr')
                 ],[
                 InlineKeyboardButton("👑 • ᴏᴡɴᴇʀ • 💎", callback_data='own')
                 ],[

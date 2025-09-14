@@ -41,8 +41,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             text=Script.START_MSG.format(query.from_user.mention),
             reply_markup=InlineKeyboardMarkup([
                 [
-                InlineKeyboardButton('♻ᴜᴘᴅᴀᴛᴇꜱ ', url='https://telegram.me/cricketclipsprovider'),
-                InlineKeyboardButton('🧩ꜱᴜᴘᴘᴏʀᴛ ', url='https://telegram.me/cricketclipsprovider')
+                InlineKeyboardButton('♻ᴜᴘᴅᴀᴛᴇꜱ ', url='https://telegram.me/LazyDeveloperr'),
+                InlineKeyboardButton('🧩ꜱᴜᴘᴘᴏʀᴛ ', url='https://telegram.me/LazyDeveloperr')
                 ],[
                 InlineKeyboardButton("👑 • ᴏᴡɴᴇʀ • 💎", callback_data='own')
                 ],[

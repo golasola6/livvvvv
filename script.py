@@ -1,7 +1,6 @@
 class Script(object):
     START_MSG = """<b>Hello, {} !</b>
 <blockquote>I’m advance version of cricket match link converter bot, instead of this i can store telegram files and generate direct download/watch link for u ❤ </blockquote>
-<blockquote>& ᴛʜᴇ ᴏᴡɴᴇʀ ɪs 🧩 <a href='https://t.me/hey_lucky19'> ʟ ᴜ ᴄ ᴋ ʏ </a></blockquote>
 """
 
     HELP_TEXT = """<b>📌 ʜᴇʟᴘ ɢᴜɪᴅᴇ 💤</b>
@@ -9,7 +8,6 @@ class Script(object):
 """
     ABOUT_TXT = """
 ╭───────────⍟
-├👑 ᴏᴡɴᴇʀ : <a href="https://t.me/hey_lucky19">ʟ ᴜ ᴄ ᴋ ʏ</a>
 ├🦋 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/LazyDeveloperr">ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀʀ</a>
 ├📕 ʟɪʙʀᴀʀʏ : <a href="https://github.com/pyrogram">ᴘʏʀᴏɢʀᴀᴍ</a>
 ├✏️ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org">ᴘʏᴛʜᴏɴ 3</a>
@@ -48,9 +46,9 @@ class Script(object):
 <i>ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ qᴜᴇsᴛɪᴏɴs, fᴇᴇᴅʙᴀᴄᴋ, ᴏʀ ɪᴅᴇᴀs, ɪ’ᴍ ᴀʟᴡᴀʏs ᴀᴠᴀɪʟᴀʙʟᴇ! ʀᴇᴀᴄʜ ᴏᴜᴛ ᴛᴏ ᴍᴇ ᴏɴ ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀ ᴛʜᴏᴜɢʜ ᴍʏ ᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟs ʟɪsᴛᴇᴅ ʙᴇʟᴏᴡ.</i>
 
 <b>🔗 sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ:</b><br>
-• 💘 <a href="https://instagram.com/hey_lucky19">ɪɴsᴛᴀɢʀᴀᴍ</a><br>
-• 🔊 <a href="https://telegram.me/cricketclipsprovider">ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a><br>
-• 🤞 <a href="https://telegram.me/hey_lucky19">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ...</a><br>
+• 💘 <a href="https://instagram.com/LazyDeveloperr">ɪɴsᴛᴀɢʀᴀᴍ</a><br>
+• 🔊 <a href="https://telegram.me/LazyDeveloperr">ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a><br>
+• 🤞 <a href="https://telegram.me/LazyDeveloperr">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ...</a><br>
 
 <b>🛠 ᴛʜᴀɴᴋs ꜰᴏʀ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ! ɪ ᴀᴘᴘʀᴇᴄɪᴀᴛᴇ ʏᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ʜᴏᴘᴇ ʏᴏᴜ ᴇɴᴊᴏʏ ᴜsɪɴɢ ɪᴛ!</b>
 """
